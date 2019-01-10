@@ -1,17 +1,16 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-published: "21. dubna 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
+title: "Dálnice by stavěl rychleji jen superman, tvrdí ministr Ťok. Poláci to dokázali. Jak?"
+perex: "ffff"
+published: "14. ledna 2019"
+coverimg: ./graphics/dalnice4.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
 libraries: [jquery, datatables] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 <left>
+	<strong>Poláci přiadli plyn</strong>
 	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
+		Jak v posledních letech akcelerovala výstavba sítě dálnic v Polsku ukazuje animovaná mapa. 
 	</p>
 </left>
 
