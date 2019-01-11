@@ -1,2 +1,4 @@
 import "./targetblank"; // pro otvírání odkazů v novém okně
-import "./graf1.js";
+import "./highcharts";
+import "./series-label"
+import "./graf1";

@@ -7,6 +7,10 @@ styles: []
 libraries: [jquery, datatables] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
+
+<div id="container"></div>
+
+
 <left>
 	<strong>Poláci přidali plyn</strong>
 	<p>
