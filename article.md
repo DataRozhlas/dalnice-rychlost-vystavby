@@ -2,13 +2,13 @@
 perex: "ffff"
 published: "14. ledna 2019"
 coverimg: ./graphics/dalnice4.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+coverimg_note: "Koláž iROZHLAS.cz"
 styles: []
-libraries: [highcharts] #jquery, d3, highcharts, datatables
+libraries: [highcharts, "https://code.highcharts.com/modules/series-label.js"] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 
-<div id="container"></div>
+<wide><div id="graf1"></div></wide>
 
 
 <left>
