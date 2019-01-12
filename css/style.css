@@ -4,3 +4,17 @@
 	height: 60vh;
 	margin: 0 auto
 }
+
+#graf2 {
+	width: 295px;
+	height: 800px;
+	margin: auto 20px auto -120px;
+	float: left;
+}
+
+@media only screen and (max-width: 880px) { 
+	#graf2 {
+	margin: auto 20px auto 0px;
+	float: left;
+	}
+}

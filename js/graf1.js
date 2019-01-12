@@ -2,7 +2,7 @@
 Highcharts.chart('graf1', {
 
     title: {
-        text: 'Kolik kilometrů dálnic bylo v provozu v různých evropských zemích v letech 1993 až 2018'
+        text: 'Eurostat: Kolik kilometrů dálnic bylo v provozu v různých evropských zemích v letech 1993 až 2018'
     },
     subtitle: {
         text: 'Kliknutím na jejich název v legendě můžete do srovnání přidat (či odebrat) další státy; údaje jsou vždy k 1. lednu daného roku'
