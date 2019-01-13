@@ -24,7 +24,7 @@ Podle Krzysztofa Śmietany, dopravního experta polského analytického Deníku 
 
 „Samotných dálnic se v posledních letech zprovoznilo méně, ale rychlostních silnic se staví docela dost a to pro řidiče není tak velký rozdíl, jestli dálnice nebo rychlostní silnice,“ myslí si Śmietana.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Historia_budowy_autostrad_i_dr%C3%B3g_ekspresowych.gif"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Historia_budowy_autostrad_i_dr%C3%B3g_ekspresowych.gif" style="width:100%;height:auto;"></img>
 
 *Animace ukazuje rozvoj polské dálniční sítě (včetně rychlostních silnic) od počátků k dnešku. Červená značí úsek ve výstavbě, zelená dokončený úsek. Zdroj: [Wikipedia](https://en.wikipedia.org/wiki/Highways_in_Poland#/media/File:Historia_budowy_autostrad_i_dr%C3%B3g_ekspresowych.gif)*
 
@@ -75,7 +75,7 @@ Podle Ťoka leží vina na jeho předchůdcích: „Jestli máte otevřít něja
 
 ## Dálniční síť České republiky
 
-<wide><img src="./graphics/mapa.png"></img>
-<img src="./graphics/tabulka.png"></img></wide>
+<wide><img src="./graphics/mapa.png" style="width:100%;height:auto;"></img>
+<img src="./graphics/tabulka.png" style="width:100%;height:auto;"></img></wide>
 
 *Zdroje: [ŘSD](https://www.rsd.cz/wps/portal/web/Silnice-a-dalnice/mapy), [NKÚ](https://nku.cz/assets/kon-zavery/K17005.pdf)*
