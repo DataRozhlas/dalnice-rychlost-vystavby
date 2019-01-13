@@ -1,4 +1,3 @@
-
 Highcharts.chart('graf1', {
 
     title: {
@@ -15,7 +14,8 @@ Highcharts.chart('graf1', {
     legend: {
         layout: 'vertical',
         align: 'right',
-        verticalAlign: 'middle'
+        verticalAlign: 'top',
+        y:40
     },
     credits: {
         text: 'Zdroje dat: Eurostat (1993-2016), ŘSD (2017-2018)',

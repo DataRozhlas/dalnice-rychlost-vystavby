@@ -1,7 +1,7 @@
 ﻿title: "Dálnice by stavěl rychleji jen superman, tvrdí ministr Ťok. Jak to dokázali Poláci?"
 perex: "Dálnice, dálnice, dálnice. Předvolební heslo se ministru dopravy vrátilo jako bumerang. Slibované zrychlení výstavby autostrád i po čtyřech letech Dana Ťoka v úřadu zůstává hlavně na papíře: loni se vedle rekonstrukcí podařilo zprovoznit jen necelé čtyři kilometry D7 mezi Louny a Chomutovem. Když se k tomu na přelomu roku přidaly katastrofální kolony na D1, některým motoristům začala docházet trpělivost."
 published: "14. ledna 2019"
-coverimg: ./graphics/dalnice4.jpg
+coverimg: https://data.irozhlas.cz/dalnice-rychlost-vystavby/graphics/dalnice4.jpg
 coverimg_note: "Koláž iROZHLAS.cz"
 styles: []
 libraries: [highcharts, "https://code.highcharts.com/modules/series-label.js"] #jquery, d3, highcharts, datatables
@@ -13,14 +13,14 @@ Jedním z nich je internetový podnikatel Michal Bláha. Na sociálních sítíc
 <wide><div id="graf1"></div></wide>
 
 
-Evropský statistický úřad je jedinou institucí, která mezinárodně srovnatelné údaje o délce dálniční sítě dlouhodobě zveřejňuje. Data Eurostatu jsou nejlepší, jaká má veřejnost k dispozici, ani ona však nejsou stoprocentní: definice dálnice se totiž v různých zemí liší a navíc se mění v čase.
+Evropský statistický úřad je jedinou institucí, která mezinárodně srovnatelné údaje o délce dálniční sítě dlouhodobě zveřejňuje. Data Eurostatu jsou nejlepší, jaká má veřejnost k dispozici, ani ona však nejsou stoprocentní: definice dálnice se totiž v různých zemích liší a navíc se mění v čase.
 
 Jen díky tomu si Česká republika v roce 2016 polepšila o 434 kilometrů „nových dálnic“ – ministerstvo dopravy administrativním zásahem přeřadilo většinu rychlostních komunikací na tzv. dálnice druhé třídy. Ve skutečnosti v daném roce zprovoznilo jen 12,5 kilometrů dlouhý úsek D8 mezi Bílinkou a Řehlovicemi. V grafu jsou proto uvedeny obě varianty vývoje: bez přejmenovaných rychlostních silnic i s nimi.
 
 Podobně prudký skok zaznamenalo Maďarsko v roce 2008 a Polsko v letech 2011 a 2012. Na rozdíl od čísel z Česka u nich však Eurostat poznámku o administrativní změně neuvádí.
 
 ## Jak Poláci přidali plyn
-Podle Krzysztofa Śmietany, dopravního experta polského analytického Deníku Gazeta Prawna, stojí za strmým vzestupem polské křivky mimořádné investice. Vláda naplno využila evropské i vlastní zdroje, aby se blýskla před evropským fotbalovým šampionátem v roce 2012. „Rok, ve kterém bylo EURO, byl určitě výjimečný. Těsně před EURO se odevzdalo 600 kilometrů dálnic a rychlostních silnic. A řekněme, že se to slušné tempo podařilo udržet,“ řekl Śmietana serveru iROZHLAS.cz.
+Podle Krzysztofa Śmietany, dopravního experta polského analytického deníku Gazeta Prawna, stojí za strmým vzestupem polské křivky mimořádné investice. Vláda naplno využila evropské i vlastní zdroje, aby se blýskla před evropským fotbalovým šampionátem v roce 2012. „Rok, ve kterém bylo EURO, byl určitě výjimečný. Těsně před EURO se odevzdalo 600 kilometrů dálnic a rychlostních silnic. A řekněme, že se to slušné tempo podařilo udržet,“ řekl Śmietana serveru iROZHLAS.cz.
 
 „Samotných dálnic se v posledních letech zprovoznilo méně, ale rychlostních silnic se staví docela dost a to pro řidiče není tak velký rozdíl, jestli dálnice nebo rychlostní silnice,“ myslí si Śmietana.
 
@@ -42,7 +42,7 @@ Právě přebujelá byrokracie je hlavní brzdou výstavby dálnic u nás, uvád
 
 V [podrobné zprávě](https://nku.cz/assets/kon-zavery/K17005.pdf) pak uvádějí, že „příprava staveb dálnic v období od získání souhlasného stanoviska k vlivům na životní prostředí do vydání pravomocného stavebního povolení trvala v průměru 13 let. Oproti předchozí kontrolní akci NKÚ (v roce 2012) se prodloužila o 4 roky.“
 
-Extrémně dlouhé stavební řízení podkopává financování staveb. „Hrozí, že komplikované stavby dálnic s vyšší užitnou hodnotou nebudou v plánovaném termínu dokončeny a spolufinancovány z [Operačního programu Doprava](http://www.opd.cz/Pages/Home.aspx). (...) Administrativní náročnost stavebního a územního řízení v ČR má negativní dopad na plánování termínů výstavby, na samotné ceny dopravních staveb i na stanovení potřebného objemu veřejných prostředků.“ 
+Extrémně dlouhé stavební řízení podle Nejvyššího kontrolního úřadu podkopává financování staveb. „Hrozí, že komplikované stavby dálnic s vyšší užitnou hodnotou nebudou v plánovaném termínu dokončeny a spolufinancovány z [Operačního programu Doprava](http://www.opd.cz/Pages/Home.aspx). (...) Administrativní náročnost stavebního a územního řízení v ČR má negativní dopad na plánování termínů výstavby, na samotné ceny dopravních staveb i na stanovení potřebného objemu veřejných prostředků.“ 
 
 Přitom ceny za jeden kilometr postavené dálnice jsou podle kontrolorů v pořádku. Za posledních pět let výrazně klesly a nyní se příliš neliší od cen v Německu, Řecku, Španělsku nebo už zmíněném Polsku. „V letech 2013-2017 vyšel jeden kilometr dálnice na 152 milionů korun. Přitom od roku 2008 do roku 2012 stál jeden kilometr dálnice přibližně 340 milionů korun,“ sdělil Radiožurnálu Václav Kešner z NKÚ. 
 
@@ -52,7 +52,7 @@ Stavební firmy podle něj v době hospodářského útlumu opustilo 60 tisíc z
 
 ## Jak ANO čaruje s čísly
 
-„Rozhýbali jsme výstavbu silnic, všechny kapacity stavebních firem jsou takřka vyčerpané,“ pochválil se v listopadu na [tiskové konferenci](https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Bilance-stavebni-sezony-Letos-stavba-204-kilometru) ministr dopravy Dan Ťok. "V letošním roce skončíme s bilancí otevřených 45,5 kilometrů silnic, z toho 30 kilometrů dálnic a 15,5 km silnic I. třídy," pokračoval.
+„Rozhýbali jsme výstavbu silnic, všechny kapacity stavebních firem jsou takřka vyčerpané,“ pochválil se v listopadu na [tiskové konferenci](https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Bilance-stavebni-sezony-Letos-stavba-204-kilometru) ministr dopravy Dan Ťok. „V letošním roce skončíme s bilancí otevřených 45,5 kilometrů silnic, z toho 30 kilometrů dálnic a 15,5 km silnic I. třídy,“ pokračoval.
 
 Kdyby se skutečně podařilo za rok postavit 30 kilometrů nových dálnic, měla by Česká republika šanci na splnění svého plánu dobudovat dálniční síť do roku 2050. Podle výpočtů NKÚ je k jeho splnění potřeba stavět 25 kilometrů nových dálnic za rok.
 
@@ -61,9 +61,9 @@ Potíž je v tom, že v Česku loni nepřibylo 30, ale jen 3,8 kilometru nové d
 <wide><div id="graf3"></div></wide>
 
 
-Jak tedy ministr Ťok dospěl k "bilanci 30 kilometrů otevřených dálnic"? Z [detailní mapy projektů](https://www.mdcr.cz/getattachment/Media/Media-a-tiskove-zpravy/Bilance-stavebni-sezony-Letos-stavba-204-kilometru/rsd-mapa-vystavba-2018-2019.pdf.aspx) je zřejmé, že do „otevřených dálnic“ nepočítá jen novostavby, ale i rekonstruované úseky D1, které si podle něj složitostí s výstavbou nové dálnice nezadají.  
+Jak tedy ministr Ťok dospěl k „bilanci 30 kilometrů otevřených dálnic“? Z [detailní mapy projektů](https://www.mdcr.cz/getattachment/Media/Media-a-tiskove-zpravy/Bilance-stavebni-sezony-Letos-stavba-204-kilometru/rsd-mapa-vystavba-2018-2019.pdf.aspx) je zřejmé, že do „otevřených dálnic“ nepočítá jen novostavby, ale i rekonstruované úseky D1, které si podle něj složitostí s výstavbou nové dálnice nezadají.  
 
-Podobně kreativní jsou při práci s daty noviny hnutí ANO Lepší Česko. Když zveřejnily graf, podle nichž ministr Ťok zahájil i zprovoznil nejvíc kilometrů nových dálnic ze všech ministrů od roku 1992, nevzaly v úvahu délku jeh mandátu. [Upozornil na to blogger Martin Jurica](https://medium.com/@maestrosill/%C4%8Dau-andreji-a-dane-k-t%C4%9Bm-d%C3%A1lnic%C3%ADm-6f20fe427106). Když údaje přepočetl korektnější metodou, tedy se zohledněním délky mandátu a po odečtení rekonstrukcí na D1, ukázalo se, že ministr Ťok je v dokončených kilometrech dálnicích na sedmém a v zahájených na třetím místě.
+Podobně kreativní jsou při práci s daty noviny hnutí ANO Lepší Česko. Když zveřejnily graf, podle něhož ministr Ťok zahájil i zprovoznil nejvíc kilometrů nových dálnic ze všech ministrů od roku 1992, nevzaly v úvahu délku jeho mandátu. [Upozornil na to blogger Martin Jurica](https://medium.com/@maestrosill/%C4%8Dau-andreji-a-dane-k-t%C4%9Bm-d%C3%A1lnic%C3%ADm-6f20fe427106). Když údaje přepočetl korektnější metodou, tedy se zohledněním délky mandátu a po odečtení rekonstrukcí na D1, ukázalo se, že ministr Ťok je v dokončených kilometrech dálnicích na sedmém a v zahájených na třetím místě.
 
 ## Kdy bude hotovo?
 
@@ -75,7 +75,7 @@ Podle Ťoka leží vina na jeho předchůdcích: „Jestli máte otevřít něja
 
 ## Dálniční síť České republiky
 
-<wide><img src="./graphics/mapa.png" style="width:100%;height:auto;"></img>
-<img src="./graphics/tabulka.png" style="width:100%;height:auto;"></img></wide>
+<wide><img src="https://data.irozhlas.cz/dalnice-rychlost-vystavby/graphics/mapa.png" style="width:100%;height:auto;"></img>
+<img src="https://data.irozhlas.cz/dalnice-rychlost-vystavby/graphics/tabulka.png" style="width:100%;height:auto;"></img></wide>
 
 *Zdroje: [ŘSD](https://www.rsd.cz/wps/portal/web/Silnice-a-dalnice/mapy), [NKÚ](https://nku.cz/assets/kon-zavery/K17005.pdf)*
