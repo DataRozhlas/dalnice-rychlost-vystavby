@@ -1,4 +1,4 @@
-﻿title: "Dálnice by stavěl rychleji jen superman, tvrdí ministr Ťok. Jak to dokázali Maďaři a Poláci?"
+﻿title: "Dálnice by stavěl rychleji jen superman, tvrdí ministr Ťok. Jak to dokázali Poláci?"
 perex: "Dálnice, dálnice, dálnice. Předvolební heslo se ministru dopravy vrátilo jako bumerang. Slibované zrychlení výstavby autostrád i po čtyřech letech Dana Ťoka v úřadu zůstává hlavně na papíře: loni se vedle rekonstrukcí podařilo zprovoznit jen necelé čtyři kilometry D7 mezi Louny a Chomutovem. Když se k tomu na přelomu roku přidaly katastrofální kolony na D1, některým motoristům začala docházet trpělivost."
 published: "14. ledna 2019"
 coverimg: ./graphics/dalnice4.jpg
@@ -11,6 +11,7 @@ options: [] #wide, noheader (, nopic)
 Jedním z nich je internetový podnikatel Michal Bláha. Na sociálních sítích [upozornil](https://twitter.com/HlidacStatu/status/1078759418664288256) na statistiku Eurostatu, podle níž Českou republiku v tempu budování dálnic předstihlo Maďarsko i Polsko. Na dohled Česku se v celkovém rozsahu dálniční sítě přiblížilo Rumunsko, ačkoli začínalo zhruba na jedné čtvrtině. „Tempo, které Maďaři a Poláci nasadili, je vysoké. Ty rozdíly jsou obrovské, a to i v absolutních číslech,“ řekl Bláha Radiožurnálu. 
 
 <wide><div id="graf1"></div></wide>
+
 
 Evropský statistický úřad je jedinou institucí, která mezinárodně srovnatelné údaje o délce dálniční sítě dlouhodobě zveřejňuje. Data Eurostatu jsou nejlepší, jaká má veřejnost k dispozici, ani ona však nejsou stoprocentní: definice dálnice se totiž v různých zemí liší a navíc se mění v čase.
 
@@ -57,6 +58,9 @@ Kdyby se skutečně podařilo za rok postavit 30 kilometrů nových dálnic, mě
 
 Potíž je v tom, že v Česku loni nepřibylo 30, ale jen 3,8 kilometru nové dálnice, konkrétně šlo o úsek chomutovské D7 mezi Postoloprty a mimoúrovňovou křižovatkou Bitozeves.
 
+<wide><div id="graf3"></div></wide>
+
+
 Jak tedy ministr Ťok dospěl k "bilanci 30 kilometrů otevřených dálnic"? Z [detailní mapy projektů](https://www.mdcr.cz/getattachment/Media/Media-a-tiskove-zpravy/Bilance-stavebni-sezony-Letos-stavba-204-kilometru/rsd-mapa-vystavba-2018-2019.pdf.aspx) je zřejmé, že do „otevřených dálnic“ nepočítá jen novostavby, ale i rekonstruované úseky D1, které si podle něj složitostí s výstavbou nové dálnice nezadají.  
 
 Podobně kreativní jsou při práci s daty noviny hnutí ANO Lepší Česko. Když zveřejnily graf, podle nichž ministr Ťok zahájil i zprovoznil nejvíc kilometrů nových dálnic ze všech ministrů od roku 1992, nevzaly v úvahu délku jeh mandátu. [Upozornil na to blogger Martin Jurica](https://medium.com/@maestrosill/%C4%8Dau-andreji-a-dane-k-t%C4%9Bm-d%C3%A1lnic%C3%ADm-6f20fe427106). Když údaje přepočetl korektnější metodou, tedy se zohledněním délky mandátu a po odečtení rekonstrukcí na D1, ukázalo se, že ministr Ťok je v dokončených kilometrech dálnicích na sedmém a v zahájených na třetím místě.
@@ -68,3 +72,10 @@ Podle Ťoka leží vina na jeho předchůdcích: „Jestli máte otevřít něja
 Česká dálniční síť je vyprojektovaná na 2073 kilometrů a podle dlouhodobých plánů by měla být dokončena v roce 2050. Do cíle chybí ještě přes 800 kilometrů. [Nejvyšší kontrolní úřad se domnívá, že se to spíš nestihne](https://nku.cz/assets/kon-zavery/K17005.pdf):
 
 >Délky úseků dálnic zprovozňovaných v minulých letech byly značně nerovnoměrné. V letech 1998–2005 a 2011–2017 bylo ročně zprovozněno průměrně cca 16 km dálnic. Naproti tomu v letech 2006–2010 to bylo v průměru 56 km dálnic ročně. Podle stavu v době kontroly je reálné v letech 2018–2020 zprovoznit 52 km dálnic, což je v průměru 17 km ročně. Tempo výstavby tak není pro záměr dobudovat síť dálnic v délce 2 073 km do roku 2050 postačující. Pro jeho dodržení by mělo být po roce 2017 zprovozněno 833 km dálnic, tj. ročně průměrně 25 km dálnic. 
+
+## Dálniční síť České republiky
+
+<wide><img src="./graphics/mapa.png"></img>
+<img src="./graphics/tabulka.png"></img></wide>
+
+*Zdroje: [ŘSD](https://www.rsd.cz/wps/portal/web/Silnice-a-dalnice/mapy), [NKÚ](https://nku.cz/assets/kon-zavery/K17005.pdf)*

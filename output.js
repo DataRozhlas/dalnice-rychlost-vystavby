@@ -108,6 +108,17 @@ eval("Highcharts.chart('graf2', {\n  chart: {\n    type: 'bar'\n  },\n  title: {
 
 /***/ }),
 
+/***/ "./js/graf3.js":
+/*!*********************!*\
+  !*** ./js/graf3.js ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("Highcharts.chart('graf3', {\n  chart: {\n    type: 'column'\n  },\n  title: {\n    text: 'Délky dálnic zprovozněné v letech 1971–2018'\n  },\n  subtitle: {\n    text: 'Graf obsahuje i úseky bývalých rychlostních silnic, které nebyly zařazeny k 1. 1. 2016 do sítě dálnic; červeně roky, kdy byl ministrem dopravy Dan Ťok'\n  },\n  yAxis: {\n    title: {\n      text: 'kilometry dálnic v provozu'\n    }\n  },\n  credits: {\n    text: 'Zdroje dat: NKÚ a ŘSD',\n    href: 'https://nku.cz/assets/kon-zavery/K17005.pdf'\n  },\n  tooltip: {\n    valueSuffix: 'km'\n  },\n  plotOptions: {\n    series: {\n      pointStart: 1971,\n      dataLabels: {\n        enabled: true\n      }\n    }\n  },\n  series: [{\n    name: 'délka zprovozněných dálnic',\n    data: [23, 15, 22, 13, 26, 28, 71, 37, 42, 78, 25, 17, 26, 43, 36, 19, 2, 16, 16, 28, 9, 5, 30, 1, 25, 35, 71, 13, 14, 7, 23, 4, 28, 22, 17, 78, 46, 46, 59, 52, 16, 11, 40, {\n      y: 0,\n      color: '#c91b12'\n    }, {\n      y: 5,\n      color: '#c91b12'\n    }, {\n      y: 16,\n      color: '#c91b12'\n    }, {\n      y: 17,\n      color: '#c91b12'\n    }, {\n      y: 4,\n      color: '#c91b12'\n    }],\n    color: '#315389'\n  }]\n});\n\n//# sourceURL=webpack:///./js/graf3.js?");
+
+/***/ }),
+
 /***/ "./js/script.js":
 /*!**********************!*\
   !*** ./js/script.js ***!
@@ -116,7 +127,7 @@ eval("Highcharts.chart('graf2', {\n  chart: {\n    type: 'bar'\n  },\n  title: {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _targetblank__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./targetblank */ \"./js/targetblank.js\");\n/* harmony import */ var _targetblank__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_targetblank__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _graf1__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./graf1 */ \"./js/graf1.js\");\n/* harmony import */ var _graf1__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_graf1__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _graf2__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./graf2 */ \"./js/graf2.js\");\n/* harmony import */ var _graf2__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_graf2__WEBPACK_IMPORTED_MODULE_2__);\n // pro otvírání odkazů v novém okně\n\n\n\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _targetblank__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./targetblank */ \"./js/targetblank.js\");\n/* harmony import */ var _targetblank__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_targetblank__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _graf1__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./graf1 */ \"./js/graf1.js\");\n/* harmony import */ var _graf1__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_graf1__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _graf2__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./graf2 */ \"./js/graf2.js\");\n/* harmony import */ var _graf2__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_graf2__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _graf3__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./graf3 */ \"./js/graf3.js\");\n/* harmony import */ var _graf3__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_graf3__WEBPACK_IMPORTED_MODULE_3__);\n // pro otvírání odkazů v novém okně\n\n\n\n\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ }),
 
